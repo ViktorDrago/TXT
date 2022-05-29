@@ -1,0 +1,8 @@
+Skills:
+skill 1 - Terminal Linux,
+skill 2 - Theory of testing,
+skill 3 - Structure of REST,
+skill 4 - Structure SOAP,
+skill 5 - API and Postman,
+skill 6 - Android Studio and ABD.
+
